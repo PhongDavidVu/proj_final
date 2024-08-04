@@ -1,0 +1,27 @@
+{
+  "@@locale": "en",
+  "createAccount": "Create Account",
+  "welcome": "Welcome to your todo list",
+  "request": "Log in to continue",
+  "notSupported": "{platform} sign up is not supported",
+  "login" :"Log in",
+  "name" :"Name",
+  "email" :"Email",
+  "password" :"Password",
+  "or": "or",
+  "signup": "Signup",
+  "congrate": "Congratulations!",
+  "wait": "Please wait a little longer...",
+  "alreadyHaveAccount": "Already have account?",
+  "notEmpty" : "{field} must not be empty",
+  "invalid": "Invalid {field} format",
+  "tooWeak": "{field} is too weak",
+  "todo": "Todo List",
+  "addTodo":"Add a todo",
+  "pending": "Pending Tasks",
+  "done": "Done Tasks",
+  "subString": "Hello {name}",
+  "pluralCount": "{count,  plural, zero {Plural count is 0} one {This is string for plural count = 1} other{Count is {count}}}",
+  "pageHomeBirthday":"{sex, select, male {His Birthday} female {Her birthday} other {Their Birthday}}"
+
+}
